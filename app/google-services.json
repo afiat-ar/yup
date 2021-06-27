@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "473509251768",
+    "project_id": "yourstupidphrases",
+    "storage_bucket": "yourstupidphrases.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473509251768:android:cf01c5cfa2a9c89c79c24d",
+        "android_client_info": {
+          "package_name": "com.example.yups"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473509251768-3qbkanlanm4jl8jl7cl8jo99fshdbti7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC64eWClMTCJPkG9Fiz71Fjcx7Gxw8Sl3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473509251768-3qbkanlanm4jl8jl7cl8jo99fshdbti7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
